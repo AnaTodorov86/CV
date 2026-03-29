@@ -1,6 +1,10 @@
 # Ana Todorov
 ### SDET | QA Lead | Test Automation Engineer
 
+<p align="right">
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAnaTodorov86%2FCV&label=VIEWS&countColor=%2326313c&style=flat" alt="Views" />
+</p>
+
 <p align="left">
   <a href="mailto:ana@todorov.rs"><img src="https://img.shields.io/badge/Email-ana%40todorov.rs-blue?style=flat-square&logo=gmail" alt="Email"></a>
   <a href="[https://linkedin.com/in/vaš-profil](https://www.linkedin.com/in/ana-tod)"><img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
