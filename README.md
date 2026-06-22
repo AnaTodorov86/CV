@@ -44,14 +44,14 @@ Industries: Fintech, Energy, Healthcare, Fashion Retail, IoT, Scientific Publish
 #### **Senior QA Automation Engineer / Independent Consultant | NoisyLab (Self-employed)**
 *Sep 2024 - Present*
 
-**PROJECT 1: iGaming & Sports Betting Platform** *(May 2026 – Present)*
+**PROJECT 1: iGaming & Sports Betting Platform**
 * **Role:** SDET / Senior QA Automation Engineer
 * Delivering quality engineering for a complex, high-traffic B2B platform specializing in iGaming and sports betting solutions.
 * Designing and scaling automated E2E test suites for multi-layered web applications, ensuring high availability and seamless user experience.
 * Validating complex third-party API integrations, payment gateways, CRM/automation tools (Fast Track), and backend transaction-heavy workflows.
 * **Tech Stack:** Java, RestAssured, Postman, Fast Track, Jenkins, Rancher, GitLab
 
-**PROJECT 2: Real Estate Ecosystem - Netherlands** *(July 2024 - May 2025)*
+**PROJECT 2: Real Estate Ecosystem - Netherlands**
 * **Role:** QA Automation Engineer
 * Spearheaded quality assurance for a prominent Dutch real estate platform, focusing on property management, CRM systems, and user-facing web applications.
 * Developed automated UI and regression testing suites to optimize release cycles and enhance platform stability.
