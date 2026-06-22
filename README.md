@@ -7,7 +7,7 @@
 
 <p align="left">
   <a href="mailto:ana@todorov.rs"><img src="https://img.shields.io/badge/Email-gray?style=flat-square&logo=gmail" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/ana-todorov"><img src="https://img.shields.io/badge/LinkedIn-gray?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTE5IDBoLTE0Yy0yLjc2MSAwLTUgMi4yMzktNSA1djE0YzAgMi43NjEgMi4yMzkgNSA1IDVoMTRjMi43NjIgMCA1LTIuMjM5IDUtNXYtMTRjMC0yLjc2MS0yLjIzOC01LTUtNXptLTExIDE5aC0zdi0xMWgzdjExem0tMS41LTEyLjI2OGMtLjk2NiAwLTEuNzUtLjc5LTEuNzUtMS43NjRzLjc4NC0xLjc2NCAxLjc1LTEuNzY0IDEuNzUuNzkgMS43NSAxLjc2NC0uNzg0IDEuNzY0LTEuNzUgMS43NjR6bTEzLjUgMTIuMjY4aC0zdi01LjYwNGMwLTMuMzY4LTQtMy4xMTMtNCAwdjUuNjA0aC0zdi0xMWg0djEuNzY1YzEuMzk2LTIuNTg2IDctMi43NzcgNy02LjIzMXYxNC40NjZ6Ii8+PC9zdmc+" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/ana-todorov"><img src="https://img.shields.io/badge/LinkedIn-gray?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTE5IDBoLTE0Yy0yLjc2MSAwLTUgMi4yMzktNSA1djE0YzAgMi43NjEgMi4yMzkgNSA1IDVoMTRjMi43NjIgMCA1LTIuMjM5IDUtNXYtMTRjMC0yLjc2MS0yLjIzOC01LTUtNXptLTExIDE5aC0zdi0xMWgzdjExem0tMS41LTEyLjI2OGMtLjk2NiAwLTEuNzUtLjc5LTEuNzUtMS43NjRzLjc4NC0xLjc2NCAx.NzU-MS43NjQgMS43NS4NzkgMS43NSAxLjc2NC0uNzg0IDEuNzY0LTEuNzUgMS43NjR6bTEzLjUgMTIuMjY4aC0zdi01LjYwNGMwLTMuMzY4LTQtMy4xMTMtNCAwdjUuNjA0aC0zdi0xMWg4djEuNzY1YzEuMzk2LTIuNTg2IDctMi43NzcgNy02LjIzMXYxNC40NjZ6Ii8+PC9zdmc+" alt="LinkedIn"></a>
   <a href="https://github.com/AnaTodorov86"><img src="https://img.shields.io/badge/Github-grey?style=flat-square&logo=github" alt="GitHub"></a>
   <a href="https://ana.qa.rs/"><img src="https://img.shields.io/badge/Website-grey?style=flat-square&logo=safari" alt="Website"></a>
   <a href="https://ana.qa.rs/blog/"><img src="https://img.shields.io/badge/Blog-grey?style=flat-square&logo=rss" alt="Blog"></a>
@@ -30,16 +30,34 @@ Industries: Fintech, Energy, Healthcare, Fashion Retail, IoT, Scientific Publish
 | | |
 | :--- | :--- |
 | **QA & Testing** | Manual Testing, Automated Testing, UI Testing, API Testing, Mobile Testing, Defect Investigation, Performance Testing, AI Application Testing, Streaming Validation |
-| **Frameworks & Tools** | Playwright, Selenium, Cypress, Appium, RestAssured, Robot Framework, Karate, Cucumber/Gherkin, XCUITest, k6, Jest |
+| **Frameworks & Tools** | Playwright, Selenium, Cypress, Appium, RestAssured, Robot Framework, Karate, Cucumber/Gherkin, XCUITest, k6, Jest, Fast Track |
 | **Languages** | TypeScript, JavaScript, Java, Python, SQL, Swift, C# |
 | **AI & LLM QA** | LLM performance benchmarking (TTFT/TPS), streaming SSE testing, AI chat E2E testing, Claude Code, GitHub Copilot |
-| **DevOps & CI/CD** | GitHub Actions, Docker, Grafana, Swagger, SonarQube, PiTest, Stryker, DORA Metrics |
+| **DevOps & CI/CD** | GitHub Actions, Docker, Grafana, Swagger, SonarQube, PiTest, Stryker, DORA Metrics, Rancher, Jenkins, GitLab |
 | **Agile & Leadership** | SCRUM Master, Backlog Management, Stakeholder Communication, Release Management, Quality Gates |
 | **Other** | Salesforce CRM, Postman, jMeter, Charles Proxy, QGIS, Claude / Claude Code, GitHub Copilot |
 
 ---
 
 ### EXPERIENCE
+
+#### **Senior QA Automation Engineer / Independent Consultant | NoisyLab (Self-employed)**
+*Sep 2024 - Present*
+
+**PROJECT 1: iGaming & Sports Betting Platform** *(May 2026 – Present)*
+* **Role:** SDET / Senior QA Automation Engineer
+* Delivering quality engineering for a complex, high-traffic B2B platform specializing in iGaming and sports betting solutions.
+* Designing and scaling automated E2E test suites for multi-layered web applications, ensuring high availability and seamless user experience.
+* Validating complex third-party API integrations, payment gateways, CRM/automation tools (Fast Track), and backend transaction-heavy workflows.
+* **Tech Stack:** Java, RestAssured, Postman, Fast Track, Jenkins, Rancher, GitLab
+
+**PROJECT 2: Real Estate Ecosystem - Netherlands** *(July 2024 - May 2025)*
+* **Role:** QA Automation Engineer
+* Spearheaded quality assurance for a prominent Dutch real estate platform, focusing on property management, CRM systems, and user-facing web applications.
+* Developed automated UI and regression testing suites to optimize release cycles and enhance platform stability.
+* Conducted thorough API and frontend testing for advanced property search engines, interactive maps, and localized listing data feeds.
+* Collaborated closely with cross-functional European teams in an Agile environment.
+* **Tech Stack:** JavaScript, Cypress, Java, RestAssured, Postman
 
 #### **QA Automation Engineer | Bakson Ltd**
 *May 2025 - Apr 2026*
