@@ -106,13 +106,23 @@ Industries: Fintech, Energy, Healthcare, Fashion Retail, IoT, Scientific Publish
 
 ### AI & LLM TESTING PROJECTS
 
-#### **End-to-End AI Chat App Tests**
+[**Agentic QA Runtime & Self-Healing Framework**](https://github.com/AnaTodorov86/agentic-qa-runtime)
+
+**Tech:** Playwright · TypeScript · Claude Code · Gemini API · GitHub CLI · HAR · Axe-Core
+* **Agentic Test Generation:** Built a workflow (qa:generate) using Claude Code and gh CLI to convert issues/markdown requirements into manual test matrices (docs/) and iterate on TypeScript specs until green.
+* **Self-Healing CI Loop:** Programmed an automated recovery lane with a 3-attempt cap where Claude fixes failures using logs/screenshots, enforced by deterministic Scope and Assertion gates, and audited by Gemini API.
+* **Hermetic Execution:** Engineered an offline replay mode (test:hermetic) running 21 tests in <10s via HAR snapshots, utilizing custom stubs in fixtures.ts to handle transient tokens and overlapping /users/me endpoints.
+* **Runtime Infrastructure:** Created global auth state caching, explicit API response predicates to eliminate brittle waits, and custom fixtures that fail on unhandled exceptions while safely filtering expected site errors.
+
+[**End-to-End AI Chat App Tests**](https://github.com/AnaTodorov86/ui-tests)
+
 **Tech:** Playwright · TypeScript · GitHub Actions · Page Object Model
 * **E2E Automation:** Built a Playwright suite for a live AI chat app targeting silent failure modes: streaming, table rendering, and UI error states.
 * **Streaming Validation:** Implemented incremental validation (polling response bubble every 400ms) to ensure tokens render progressively rather than chunking at the end.
 * **Error & CI/CD:** Covered upstream HTTP 200/500 failures and integrated automated daily regression runs into GitHub Actions.
 
-#### **LLM Performance Testing Framework (k6)**
+[**LLM Performance Testing Framework (k6)**](https://github.com/AnaTodorov86/llm-tests)
+
 **Tech:** k6 · InfluxDB · Grafana · Docker · GitHub Actions · Grafana Cloud
 * Built a k6-based framework targeting LLM-specific metrics: TTFT (time to first token) and TPS (tokens per second) with true streaming enabled
 * Defined 6 load profiles (baseline, chat, code, document, burst, stress) with per-profile SLO thresholds enforced as k6 exit codes
