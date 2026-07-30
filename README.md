@@ -21,7 +21,7 @@ Expert in test automation (Selenium, Playwright, Appium), API testing, and CI/CD
 Track record of building QA functions from scratch, leading teams of up to 5 engineers, and stepping into Product Owner and SCRUM Master roles. 
 Also a practising lecturer with 7 years of experience training QA professionals.
 
-Industries: Fintech, Energy, Healthcare, Fashion Retail, IoT, Scientific Publishing
+Industries: Fintech, Energy, Healthcare, Fashion Retail, IoT, Scientific Publishing, iGaming & Sports Betting, Real Estate Ecosystems, Big Tech
 
 ---
 
@@ -32,6 +32,7 @@ Industries: Fintech, Energy, Healthcare, Fashion Retail, IoT, Scientific Publish
 | **QA & Testing** | Manual Testing, Automated Testing, UI Testing, API Testing, Mobile Testing, Defect Investigation, Performance Testing, AI Application Testing, Streaming Validation |
 | **Frameworks & Tools** | Playwright, Selenium, Cypress, Appium, RestAssured, Robot Framework, Karate, Cucumber/Gherkin, XCUITest, k6, Jest, Fast Track |
 | **Languages** | TypeScript, JavaScript, Java, Python, SQL, Swift, C# |
+| **Databases & Tools** | Oracle (SQL Developer), PostgreSQL, MySQL, MS SQL Server (SSMS)|
 | **AI & LLM QA** | LLM performance benchmarking (TTFT/TPS), streaming SSE testing, AI chat E2E testing, Claude Code, GitHub Copilot |
 | **DevOps & CI/CD** | GitHub Actions, Docker, Grafana, Swagger, SonarQube, PiTest, Stryker, DORA Metrics, Rancher, Jenkins, GitLab |
 | **Agile & Leadership** | SCRUM Master, Backlog Management, Stakeholder Communication, Release Management, Quality Gates |
@@ -49,7 +50,8 @@ Industries: Fintech, Energy, Healthcare, Fashion Retail, IoT, Scientific Publish
 * Delivering quality engineering for a complex, high-traffic B2B platform specializing in iGaming and sports betting solutions.
 * Designing and scaling automated E2E test suites for multi-layered web applications, ensuring high availability and seamless user experience.
 * Validating complex third-party API integrations, payment gateways, CRM/automation tools (Fast Track), and backend transaction-heavy workflows.
-* **Tech Stack:** Java, RestAssured, Postman, Fast Track, Jenkins, Rancher, GitLab
+* Executing advanced SQL queries in Oracle SQL Developer to validate backend data integrity and high-traffic transaction workflows
+* **Tech Stack:** Java, RestAssured, Postman, Fast Track, Jenkins, Rancher, GitLab, Oracle SQL Developer
 
 **PROJECT 2: Real Estate Ecosystem - Netherlands**
 * **Role:** QA Automation Engineer
@@ -106,10 +108,10 @@ Industries: Fintech, Energy, Healthcare, Fashion Retail, IoT, Scientific Publish
 
 ### AI & LLM TESTING PROJECTS
 
-[**Agentic QA Runtime & Self-Healing Framework**](https://github.com/AnaTodorov86/agentic-qa-runtime)
+[**Agentic QA Runtime & Self-Healing Framework**]
 
 **Tech:** Playwright · TypeScript · Claude Code · Gemini API · GitHub CLI · HAR · Axe-Core
-* **Agentic Test Generation:** Built a workflow (qa:generate) using Claude Code and gh CLI to convert issues/markdown requirements into manual test matrices (docs/) and iterate on TypeScript specs until green.
+* **Agentic Test Generation:** Built a workflow using Claude Code and gh CLI to convert issues/markdown requirements into manual test matrices (docs/) and iterate on TypeScript specs until green.
 * **Self-Healing CI Loop:** Programmed an automated recovery lane with a 3-attempt cap where Claude fixes failures using logs/screenshots, enforced by deterministic Scope and Assertion gates, and audited by Gemini API.
 * **Hermetic Execution:** Engineered an offline replay mode (test:hermetic) running 21 tests in <10s via HAR snapshots, utilizing custom stubs in fixtures.ts to handle transient tokens and overlapping /users/me endpoints.
 * **Runtime Infrastructure:** Created global auth state caching, explicit API response predicates to eliminate brittle waits, and custom fixtures that fail on unhandled exceptions while safely filtering expected site errors.
