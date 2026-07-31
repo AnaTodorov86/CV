@@ -1,10 +1,6 @@
 # Ana Todorov
 ### SDET | QA Lead | Test Automation Engineer
 
-<p align="right">
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAnaTodorov86%2FCV&label=VIEWS&countColor=%2326313c&style=flat" alt="Views" />
-</p>
-
 <p align="left">
   <a href="mailto:ana@todorov.rs"><img src="https://img.shields.io/badge/Email-gray?style=flat-square&logo=gmail" alt="Email"></a>
   <a href="https://www.linkedin.com/in/ana-todorov"><img src="https://img.shields.io/badge/LinkedIn-gray?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTE5IDBoLTE0Yy0yLjc2MSAwLTUgMi4yMzktNSA1djE0YzAgMi43NjEgMi4yMzkgNSA1IDVoMTRjMi43NjIgMCA1LTIuMjM5IDUtNXYtMTRjMC0yLjc2MS0yLjIzOC01LTUtNXptLTExIDE5aC0zdi0xMWgzdjExem0tMS41LTEyLjI2OGMtLjk2NiAwLTEuNzUtLjc5LTEuNzUtMS43NjRzLjc4NC0xLjc2NCAx.NzU-MS43NjQgMS43NS4NzkgMS43NSAxLjc2NC0uNzg0IDEuNzY0LTEuNzUgMS43NjR6bTEzLjUgMTIuMjY4aC0zdi01LjYwNGMwLTMuMzY4LTQtMy4xMTMtNCAwdjUuNjA0aC0zdi0xMWg4djEuNzY1YzEuMzk2LTIuNTg2IDctMi43NzcgNy02LjIzMXYxNC40NjZ6Ii8+PC9zdmc+" alt="LinkedIn"></a>
