@@ -3,21 +3,23 @@
 
 <p align="left">
   <a href="mailto:ana@todorov.rs"><img src="https://img.shields.io/badge/Email-gray?style=flat-square&logo=gmail" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/ana-todorov"><img src="https://img.shields.io/badge/LinkedIn-gray?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTE5IDBoLTE0Yy0yLjc2MSAwLTUgMi4yMzktNSA1djE0YzAgMi43NjEgMi4yMzkgNSA1IDVoMTRjMi43NjIgMCA1LTIuMjM5IDUtNXYtMTRjMC0yLjc2MS0yLjIzOC01LTUtNXptLTExIDE5aC0zdi0xMWgzdjExem0tMS41LTEyLjI2OGMtLjk2NiAwLTEuNzUtLjc5LTEuNzUtMS43NjRzLjc4NC0xLjc2NCAx.NzU-MS43NjQgMS43NS4NzkgMS43NSAxLjc2NC0uNzg0IDEuNzY0LTEuNzUgMS43NjR6bTEzLjUgMTIuMjY4aC0zdi01LjYwNGMwLTMuMzY4LTQtMy4xMTMtNCAwdjUuNjA0aC0zdi0xMWg4djEuNzY1YzEuMzk2LTIuNTg2IDctMi43NzcgNy02LjIzMXYxNC40NjZ6Ii8+PC9zdmc+" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/ana-todorov"><img src="https://img.shields.io/badge/LinkedIn-gray?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTE5IDBoLTE0Yy0yLjc2MSAwLTUgMi4yMzktNSA1djE0YzAgMi43NjEgMi4yMzkgNSA1IDVoMTRjMi43NjIgMCA1LTIuMjM5IDUtNXYtMTRjMC0yLjc2MS0yLjIzOC01LTUtNXptLTExIDE5aC0zdi0xMWgzdjExem0tMS41LTEyLjI2OGMtLjk2NiAwLTEuNzUtLjc5LTEuNzUtMS43NjRzLjc4NC0xLjc2NCAxLjc1LTEuNzY0IDEuNzUuNzkgMS43NSAxLjc2NC0uNzgzIDEuNzY0LTEuNzUgMS43NjR6bTEzLjUgMTIuMjY4aC0zdi01LjYwNGMwLTMuMzY4LTQtMy4xMTMtNCAwdjUuNjA0aC0zdi0xMWgzdjEuNzY1YzEuMzk2LTIuNTg2IDctMi43NzcgNyAyLjQ3NnY2Ljc1OXoiLz48L3N2Zz4=" alt="LinkedIn"></a>
   <a href="https://github.com/AnaTodorov86"><img src="https://img.shields.io/badge/Github-grey?style=flat-square&logo=github" alt="GitHub"></a>
   <a href="https://ana.qa.rs/"><img src="https://img.shields.io/badge/Website-grey?style=flat-square&logo=safari" alt="Website"></a>
   <a href="https://ana.qa.rs/blog/"><img src="https://img.shields.io/badge/Blog-grey?style=flat-square&logo=rss" alt="Blog"></a>
-  
-  <span>📍 Serbia</span>
+
+  <span>📍 Serbia · remote worldwide</span>
 </p>
 
 ### PROFESSIONAL SUMMARY
-Senior QA engineer and team lead with 10+ years of experience delivering quality across web, mobile, and microservice architectures. 
-Expert in test automation (Selenium, Playwright, Appium), API testing, and CI/CD integration recently focused on AI application quality: streaming validation, LLM performance benchmarking (TTFT, TPS), and end-to-end testing of AI-powered interfaces. 
-Track record of building QA functions from scratch, leading teams of up to 5 engineers, and stepping into Product Owner and SCRUM Master roles. 
+Full-stack QA engineer and team lead with 14 years in QA and software development, delivering quality across web, mobile, API, and microservice architectures.
+Expert in test automation (Selenium, Playwright, Appium), API testing, and CI/CD integration, recently focused on AI application quality: streaming validation, LLM performance benchmarking (TTFT, TPS), end-to-end testing of AI-powered interfaces, and tooling that lets LLMs write and fix tests safely.
+Track record of building QA functions from scratch, leading teams of up to 5 engineers, and stepping into Product Owner and SCRUM Master roles.
 Also a practising lecturer with 7 years of experience training QA professionals.
 
-Industries: Fintech, Energy, Healthcare, Fashion Retail, IoT, Scientific Publishing, iGaming & Sports Betting, Real Estate Ecosystems, Big Tech
+Open to freelance work and remote B2B contracts.
+
+Industries: Fintech, Energy, Healthcare, Fashion Retail, IoT, Scientific Publishing, iGaming & Sports Betting, Real Estate Ecosystems, Big Tech, AI Entertainment
 
 ---
 
@@ -29,29 +31,38 @@ Industries: Fintech, Energy, Healthcare, Fashion Retail, IoT, Scientific Publish
 | **Frameworks & Tools** | Playwright, Selenium, Cypress, Appium, RestAssured, Robot Framework, Karate, Cucumber/Gherkin, XCUITest, k6, Jest, Fast Track |
 | **Languages** | TypeScript, JavaScript, Java, Python, SQL, Swift, C# |
 | **Databases & Tools** | Oracle (SQL Developer), PostgreSQL, MySQL, MS SQL Server (SSMS)|
-| **AI & LLM QA** | LLM performance benchmarking (TTFT/TPS), streaming SSE testing, AI chat E2E testing, Claude Code, GitHub Copilot |
+| **AI & LLM QA** | LLM performance benchmarking (TTFT/TPS), streaming SSE testing, AI chat E2E testing, LLM-assisted test generation and self-healing with deterministic safety gates, Claude Code, GitHub Copilot |
 | **DevOps & CI/CD** | GitHub Actions, Docker, Grafana, Swagger, SonarQube, PiTest, Stryker, DORA Metrics, Rancher, Jenkins, GitLab |
 | **Agile & Leadership** | SCRUM Master, Backlog Management, Stakeholder Communication, Release Management, Quality Gates |
-| **Other** | Salesforce CRM, Postman, jMeter, Charles Proxy, QGIS, Claude / Claude Code, GitHub Copilot |
+| **Other** | Salesforce CRM, Postman, jMeter, Charles Proxy, QGIS |
 
 ---
 
 ### EXPERIENCE
 
-#### **Senior QA Automation Engineer / Independent Consultant | NoisyLab (Self-employed)**
+#### ** Independent Consultant | NoisyLab (Self-employed)**
 *Sep 2024 - Present*
 
-**PROJECT 1: iGaming & Sports Betting Platform**
+Quality engineering across several industries: scaling automation frameworks from scratch, validating complex third-party integrations, and stabilizing high-traffic platforms in Agile teams.
+
+**PROJECT 1: Generative AI Entertainment Platform**
+* **Role:** QA Lead
+* Leading a QA team of 2 on a generative AI entertainment platform with web and mobile apps.
+* Introducing the QA process, test strategy and test automation step by step, alongside ongoing releases.
+* Cut production bugs by nearly 80%.
+* **Tech Stack:** [Typescript, Playwright, Postman]
+
+**PROJECT 2: iGaming & Sports Betting Platform**
 * **Role:** SDET / Senior QA Automation Engineer
 * Delivering quality engineering for a complex, high-traffic B2B platform specializing in iGaming and sports betting solutions.
 * Designing and scaling automated E2E test suites for multi-layered web applications, ensuring high availability and seamless user experience.
 * Validating complex third-party API integrations, payment gateways, CRM/automation tools (Fast Track), and backend transaction-heavy workflows.
-* Executing advanced SQL queries in Oracle SQL Developer to validate backend data integrity and high-traffic transaction workflows
+* Running advanced SQL queries in Oracle SQL Developer to validate backend data integrity across high-traffic transaction workflows.
 * **Tech Stack:** Java, RestAssured, Postman, Fast Track, Jenkins, Rancher, GitLab, Oracle SQL Developer
 
-**PROJECT 2: Real Estate Ecosystem - Netherlands**
+**PROJECT 3: Real Estate Ecosystem - Netherlands**
 * **Role:** QA Automation Engineer
-* Spearheaded quality assurance for a prominent Dutch real estate platform, focusing on property management, CRM systems, and user-facing web applications.
+* Led quality assurance for a prominent Dutch real estate platform, focusing on property management, CRM systems, and user-facing web applications.
 * Developed automated UI and regression testing suites to optimize release cycles and enhance platform stability.
 * Conducted thorough API and frontend testing for advanced property search engines, interactive maps, and localized listing data feeds.
 * Collaborated closely with cross-functional European teams in an Agile environment.
@@ -59,6 +70,8 @@ Industries: Fintech, Energy, Healthcare, Fashion Retail, IoT, Scientific Publish
 
 #### **QA Automation Engineer | Bakson Ltd**
 *May 2025 - Apr 2026*
+
+Stood up the QA automation function from scratch for an enterprise project and portfolio management platform.
 
 **Tech:** Playwright, TypeScript, Java, REST API, Postman, Swagger, GitHub Actions, Docker, Claude Code, GitHub Copilot
 * Built automated test suites for RESTful APIs and UI tests from scratch, growing test coverage from 0% to 65%
@@ -71,7 +84,7 @@ Industries: Fintech, Energy, Healthcare, Fashion Retail, IoT, Scientific Publish
 *Jul 2020 - May 2025*
 
 **Tech:** Java, Selenium, Playwright, RestAssured, Appium, XCUITest, Swift, Cypress, Robot Framework, Karate, Cucumber, k6, JMeter, Docker, GitHub Actions, Grafana, Postman, QGIS, PiTest, Stryker, SQL
-* Progressed through leadership roles across FAANG (Big Tech), GIS, technology, energy, fashion retail, and healthcare clients.
+* Progressed through leadership roles across FAANG (Big Tech), GIS, technology, energy, fashion retail, fintech, and healthcare clients.
 * Led a QA team of 4 people on a 100+ microservice platform for a global fashion retailer; evolved into a Service Delivery Manager with direct client-side stakeholder communication
 * Developed and maintained a robust automation framework for global-scale products, ensuring high quality delivery.
 * Sole QA engineer with production access - responsible for post-release smoke testing and production bug investigation via Grafana log analysis
@@ -104,13 +117,16 @@ Industries: Fintech, Energy, Healthcare, Fashion Retail, IoT, Scientific Publish
 
 ### AI & LLM TESTING PROJECTS
 
-[**Agentic QA Runtime & Self-Healing Framework**]
+[**ashvins: AI Test Healing & Generation CLI**](https://github.com/AnaTodorov86/ashvins)
 
-**Tech:** Playwright · TypeScript · Claude Code · Gemini API · GitHub CLI · HAR · Axe-Core
-* **Agentic Test Generation:** Built a workflow using Claude Code and gh CLI to convert issues/markdown requirements into manual test matrices (docs/) and iterate on TypeScript specs until green.
-* **Self-Healing CI Loop:** Programmed an automated recovery lane with a 3-attempt cap where Claude fixes failures using logs/screenshots, enforced by deterministic Scope and Assertion gates, and audited by Gemini API.
-* **Hermetic Execution:** Engineered an offline replay mode (test:hermetic) running 21 tests in <10s via HAR snapshots, utilizing custom stubs in fixtures.ts to handle transient tokens and overlapping /users/me endpoints.
-* **Runtime Infrastructure:** Created global auth state caching, explicit API response predicates to eliminate brittle waits, and custom fixtures that fail on unhandled exceptions while safely filtering expected site errors.
+**Tech:** TypeScript · Node.js · Vercel AI SDK · Playwright · Cypress · pytest · JUnit/TestNG · Vitest · GitHub Actions
+* **Agentic Test Generation:** Turns markdown requirements into a manual test matrix (R1…/TC-001… IDs, format checked in code), has a second model review its coverage and list gaps, then automates the approved cases into specs and iterates against the real runner until green, without loosening any assertion.
+* **Self-Healing Loop:** Groups failures by root cause and fixes each cluster with a 3-attempt cap: one model writes the patch, an independent model from another provider reviews it, and the cluster's tests plus every spec sharing the patched files are re-run. A patch that breaks another test or makes fewer tests run is rolled back.
+* **Deterministic Gates:** Seven checks run before any model review, in each framework's own dialect: no deleted or weakened assertions, no skips or retries, no renamed tests, no imports of missing files, no process/file/network APIs.
+* **Real-Bug Detection:** A locator check searches the app source and its git history, so a test pointed at a different element is sent to investigation instead of being "fixed".
+* **Framework & CI Coverage:** Adapters for Playwright, Cypress, pytest (Selenium, Playwright, API, Appium) and JUnit/TestNG (Maven, Gradle, RestAssured, Appium); ships as a CLI and a GitHub Action. ~970 tests, every framework verified against its real runner on Ubuntu and Windows.
+
+<img src="https://github.com/AnaTodorov86/ashvins/raw/main/docs/demo/heal.gif" width="600" alt="ashvins heal fixing a broken Playwright locator">
 
 [**End-to-End AI Chat App Tests**](https://github.com/AnaTodorov86/ui-tests)
 
@@ -136,7 +152,7 @@ Industries: Fintech, Energy, Healthcare, Fashion Retail, IoT, Scientific Publish
 ---
 
 ### TEACHING & MENTORING
-**Lecturer - QA Software Tester Course | Rajak School**  
+**Lecturer - QA Software Tester Course | Rajak School**
 *Oct 2017 - Oct 2024*
 * Taught QA fundamentals, manual testing, test case writing, and test automation using Java/TestNG/Selenium and C#/JavaScript/Mocha
 * Delivered API testing training using Postman; adapted curriculum across 7 years of course delivery
